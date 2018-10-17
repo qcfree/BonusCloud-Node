@@ -2,6 +2,7 @@
 ```
 wget https://github.com/hikaruchang/BonusCloud-Node/raw/master/armv7l-openwrt/bxc/bxc-start --no-check-certificate
 chmod +x bxc-start
+./bxc-start
 rm -rf bxc-start
 ```
 # 注
