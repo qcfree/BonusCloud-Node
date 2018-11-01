@@ -9,4 +9,7 @@
 ## 支持计划
 
 BCM53xx (K3等)
+
 MTK (小米Mini、K2等)
+
+AR71xx (WNDR3800、WNDR4300等)
