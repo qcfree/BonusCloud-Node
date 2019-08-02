@@ -1,5 +1,8 @@
 # BonusCloud-Node
 
+## 追加更新
+
+新增snapshot分支支持，目前已支持K3等BCM53XX设备（bonuscloud_0.2.2-9o-snapshot_arm_cortex-a9）。
 
 ## !!须知!!
 
